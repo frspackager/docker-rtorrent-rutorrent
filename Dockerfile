@@ -247,6 +247,7 @@ RUN apk --update --no-cache add \
     tar \
     tzdata \
     udns \
+    unrar \
     unzip \
     util-linux \
     zip \
